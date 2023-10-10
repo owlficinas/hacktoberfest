@@ -18,7 +18,7 @@ Uma série de atividades durante outubro para você contribuir no seu primeiro p
 
 *12/10, ás 19h*
 
-[Renan Nakazawa](https://github.com/trevineju)
+[Renan Nakazawa](https://github.com/nkzren)
 
 *Youtube (DASI USP)*
 
